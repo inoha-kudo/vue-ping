@@ -1,6 +1,6 @@
 {
     "name": "@miraiportal/vue-ping",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "MIT",
     "exports": {
         ".": "./resources/js/index.ts"
@@ -9,9 +9,9 @@
         "test": "vitest run"
     },
     "devDependencies": {
-        "@tanstack/vue-query": "^5.92.9",
-        "vite": "^7.3.1",
-        "vitest": "^4.0.18"
+        "@tanstack/vue-query": "^5.92.10",
+        "vite": "^8.0.0",
+        "vitest": "^4.1.0"
     },
     "peerDependencies": {
         "@tanstack/vue-query": "^5.92.9",
